@@ -37,7 +37,7 @@ const Experience = () => {
             <AiFillCheckCircle className="exp-details-icon"/>
             <div>
             <h4>Bootstrap</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
             </div>
           </article>
           <article className="exp-details">
@@ -56,14 +56,14 @@ const Experience = () => {
             <AiFillCheckCircle className="exp-details-icon"/>
            <div>
            <h4>Node js</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
            </div>
           </article>
           <article className="exp-details">
             <AiFillCheckCircle className="exp-details-icon"/>
            <div>
            <h4>Java</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Intermediate</small>
            </div>
           </article>
           <article className="exp-details">
@@ -77,14 +77,14 @@ const Experience = () => {
             <AiFillCheckCircle className="exp-details-icon"/>
             <div>
             <h4>Mongo DB</h4>
-            <small className="text-light">Experienced</small>
+            <small className="text-light">Beginner</small>
             </div>
           </article>
           <article className="exp-details">
             <AiFillCheckCircle className="exp-details-icon"/>
             <div>
             <h4>Express js</h4>
-            <small className="text-light">Intermediate</small>
+            <small className="text-light">Beginner</small>
             </div>
           </article>
         </div>
